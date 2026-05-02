@@ -2,7 +2,7 @@
 
 **Inventa** is a powerful, modern Warehouse Management System (WMS) built using **ASP.NET Core 9.0**. It is designed to streamline inventory operations, sales, and purchasing with a clean, responsive interface.
 
-![Inventa Login Page](file:///C:/Users/aishani%20billore/.gemini/antigravity/brain/1b55f224-4af5-4a7b-9a0f-c7bff938b059/inventa_login_page_1777737703033.png)
+
 
 ## 🚀 Key Features
 *   **Inventory Tracking**: Manage products, warehouses, and unit measures.
